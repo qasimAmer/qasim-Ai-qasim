@@ -1,9 +1,0 @@
-{
-  "name": "qasim-ai-local",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Private Arabic AI chat UI with a self-hosted OpenAI-compatible local model server",
-  "type": "module",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
